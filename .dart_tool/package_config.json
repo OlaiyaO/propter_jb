@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_jb",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2023-04-01T04:26:38.369076Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.5"
+}
