@@ -1,6 +1,7 @@
 name: prompter_jb
 version: 0.0.1
 description: Library to create CLI wizards 
+homepage: https://google.com
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
